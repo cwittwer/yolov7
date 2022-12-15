@@ -1,5 +1,5 @@
-train: /raid/home/carson.wittwer/datasets/dataset_yolo_less/images
-val: /raid/home/carson.wittwer/datasets/dataset_yolo_less/images_test
+train: /project/datasets/dataset_yolo_less/images
+val: /project/datasets/dataset_yolo_less/images_test
 #test:
 
 nc: 1
