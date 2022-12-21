@@ -1,6 +1,6 @@
-train: /project/datasets/DroneDatasetCombine/train/
-val: /project/datasets/DroneDatasetCombine/valid/
-test: /project/datasets/DroneDatasetCombine/test/
+train: /project/datasets/DroneDatasetCombined/train/
+val: /project/datasets/DroneDatasetCombined/valid/
+test: /project/datasets/DroneDatasetCombined/test/
 
 nc: 1
 
