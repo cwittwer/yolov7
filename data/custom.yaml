@@ -1,6 +1,6 @@
-train: /project/datasets/dataset_yolo_less/images
-val: /project/datasets/dataset_yolo_less/images_test
-#test:
+train: /project/datasets/DroneDatasetCombine/train
+test: /project/datasets/DroneDatasetCombine/test
+val: /project/datasets/DroneDatasetCombine/valid
 
 nc: 1
 
